@@ -5,8 +5,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://cdn.tailwindcss.com"></script>
-   
     <link rel="stylesheet" href="deco.css">
+    <link rel="shortcut icon" href="uploads/_ea2fdc50-b705-493b-8677-abd035e03523-removebg-preview.ico" type="image/x-icon">
+
     <title>Inicio</title>
 </head>
 

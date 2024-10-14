@@ -25,7 +25,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         }
     
         $stmt->close();
-        header('Location: agregar-imagen.php');
+        header('Location: index.php');
         exit();
     } else {
         echo "Error al subir la imagen o seleccionar la categoría.";

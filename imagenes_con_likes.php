@@ -1,6 +1,12 @@
 
 
+<<<<<<< HEAD
 
+=======
+<?php
+include 'conexion.php';
+?>
+>>>>>>> e66e921653e605bb3a1b2cea49ae52259312f606
 <!DOCTYPE html>
 <html lang="en">
 <?php 

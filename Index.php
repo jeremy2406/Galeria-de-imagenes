@@ -63,9 +63,13 @@ $paginas = ceil($Num_Categoria / $Registros);
             ?>
 
             <div class="grid-item w-full max-w-sm mx-auto mb-6 rounded-lg shadow-lg overflow-hidden group">
+<<<<<<< HEAD
             <a href="Comentar.php?imagen_id=<?php echo $imagenID; ?>">
     <img src="data:image/jpeg;base64,<?php echo $imagenRuta; ?>" alt="Imagen" class="w-full h-auto object-cover">
 </a>
+=======
+                <img src="data:image/jpeg;base64,<?php echo $imagenRuta; ?>" alt="Imagen" class="w-full h-auto object-cover">
+>>>>>>> e66e921653e605bb3a1b2cea49ae52259312f606
 
                 <!-- Botón de Like -->
                 <form action="like.php" method="POST">

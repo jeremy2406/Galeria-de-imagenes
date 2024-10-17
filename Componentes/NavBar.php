@@ -5,8 +5,14 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://cdn.tailwindcss.com"></script>
+<<<<<<< HEAD
    
     <link rel="stylesheet" href="deco.css">
+=======
+    <link rel="stylesheet" href="deco.css">
+    <link rel="shortcut icon" href="uploads/_ea2fdc50-b705-493b-8677-abd035e03523-removebg-preview.ico" type="image/x-icon">
+
+>>>>>>> e66e921653e605bb3a1b2cea49ae52259312f606
     <title>Inicio</title>
 </head>
 
@@ -49,9 +55,12 @@
                         <a href="imagenes_con_likes.php" class="text-base text-white hover:text-opacity-80">
                            Likes
                         </a>
+<<<<<<< HEAD
                         <a href="imagenes_con_comentarios.php" class="text-base text-white hover:text-opacity-80">
                             Comentarios
                         </a>
+=======
+>>>>>>> e66e921653e605bb3a1b2cea49ae52259312f606
                     </div>
 
                     <a href="agregar-imagen.php"
